@@ -5,4 +5,4 @@ Keras==2.2.4
 segmentation_models==0.2.1
 pandas==0.25.0
 tensorflow==1.13.1
-Pillow==6.1.0
+Pillow==6.2.0
