@@ -1,6 +1,6 @@
 keras_metrics==1.1.0
 tifffile==0.15.1
-numpy==1.16.4
+numpy==1.22.0
 Keras==2.2.4
 segmentation_models==0.2.1
 pandas==0.25.0
